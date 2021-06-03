@@ -4,8 +4,14 @@
 
 ```npm i node-fetch cheerio ```
 
+
 ### Optionals:
 
 Interactive command line user interfaces
 
 ```npm i inquirer ```
+
+
+### Run the script:
+
+```node scrape```
